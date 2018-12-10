@@ -1,2 +1,2 @@
-# sport-prediction
+# Sport Prediction
 სპორტული პროგნოზები
